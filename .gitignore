@@ -1,4 +1,7 @@
 */bin/
 */obj/
 */Obj/ 
+*\bin\
+*\obj\
+*\Obj\ 
 ignorethistext.md
